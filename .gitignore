@@ -1,6 +1,6 @@
 # Directory
-config/
 node_modules/
 
 #file
 package-lock.json
+config/client.json
